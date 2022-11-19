@@ -1,5 +1,5 @@
 ## Chronic Kidney Disease Prediction
-> https://tayyab885-chronic-kidney-disease-prediction-app-s4cofm.streamlit.app/
+>[Website Link](https://tayyab885-chronic-kidney-disease-prediction-app-s4cofm.streamlit.app/)
 ### Website Preview
 #### Home Page:
 <img src="Images/Homepage.png" width="1000">
